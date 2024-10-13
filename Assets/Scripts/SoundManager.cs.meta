@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 78a352528a90248d3bddcfca2060aa53
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soundToggleIcon: {instanceID: 0}
+  - soundOnSprite: {fileID: 21300000, guid: 343bad0ee90c54747a830e42e0b28592, type: 3}
+  - soundOffSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

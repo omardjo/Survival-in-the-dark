@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: b11ec1890b4034ce4ad592d233f28727
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 6ea7c989d2d6f4de2a387fee4a3a2d4e
+  - enabled: 1
+    path: Assets/Scenes/scene_1.unity
+    guid: b4e891c95b12e481f80ced975cff8e29
+  - enabled: 1
+    path: Assets/Scenes/scene_2.unity
+    guid: 073d1b017dc9d4f47abe9c3a3bdcdb62
+  - enabled: 1
+    path: Assets/Scenes/scene_3.unity
+    guid: 2c3e02f384ce242ebb858a7fb52a4c57
+  - enabled: 1
+    path: Assets/Scenes/scene_4.unity
+    guid: 9bc036dc655b34af99c402e7e5a88b20
+  - enabled: 1
+    path: Assets/Scenes/scene_5.unity
+    guid: 551b776b7027f4c1abcb0190e1f6e3c7
+  - enabled: 1
+    path: Assets/Scenes/scene_6.unity
+    guid: d288ff0e1700d411f974cad5ef75c157
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 348f1867d875b4b11be8d52d1bfef8d0, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: fa8257435dc9141928e820c47b0e183b, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: d8e8484256a7448b4b155cfb74a3823b, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 03cc0676d2f924b3883b65b56e10fa28, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: cd482d6c5f9914c239cd46674b85b2b1, type: 2}
