@@ -1,9 +1,0 @@
-com.DefaultCompany.SurvivalInTheDark.launcher-pngs-0 /Volumes/omar/unity projects/SurvivalInTheDark/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/generated/res/pngs/release
-com.DefaultCompany.SurvivalInTheDark.launcher-resValues-1 /Volumes/omar/unity projects/SurvivalInTheDark/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/generated/res/resValues/release
-com.DefaultCompany.SurvivalInTheDark.launcher-rs-2 /Volumes/omar/unity projects/SurvivalInTheDark/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/generated/res/rs/release
-com.DefaultCompany.SurvivalInTheDark.launcher-mergeReleaseResources-3 /Volumes/omar/unity projects/SurvivalInTheDark/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
-com.DefaultCompany.SurvivalInTheDark.launcher-mergeReleaseResources-4 /Volumes/omar/unity projects/SurvivalInTheDark/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
-com.DefaultCompany.SurvivalInTheDark.launcher-merged_res-5 /Volumes/omar/unity projects/SurvivalInTheDark/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/merged_res/release
-com.DefaultCompany.SurvivalInTheDark.launcher-main-6 /Volumes/omar/unity projects/SurvivalInTheDark/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res
-com.DefaultCompany.SurvivalInTheDark.launcher-release-7 /Volumes/omar/unity projects/SurvivalInTheDark/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/release/res
-com.DefaultCompany.SurvivalInTheDark.launcher-packaged_res-8 /Volumes/omar/unity projects/SurvivalInTheDark/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/packaged_res/release
